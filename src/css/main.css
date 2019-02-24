@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+}
+body > header {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  padding: 4px;
+}
+body > footer {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 4px;
+  text-align: center;
+}
